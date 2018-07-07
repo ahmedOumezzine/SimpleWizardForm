@@ -17,7 +17,9 @@ namespace SimpleWizardForm
                         "~/Scripts/jquery.unobtrusive*",
                         "~/Scripts/jquery.validate*"));
 
-            bundles.Add(new StyleBundle("~/Content/css").Include("~/Content/site.css"));
+            bundles.Add(new StyleBundle("~/Content/css").Include(
+                "~/Content/bootstrap.min.css", "~/Content/site.css"
+                ));
         }
     }
 }
