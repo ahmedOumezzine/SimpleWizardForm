@@ -1,2 +1,6 @@
-"# SimpleWizardForm" 
-Simple Wizard is a simple and lightweight plugin that converts a long form into a wizard form where visitors can navigate between the steps of the form with the next / previous buttons. Integrated with jQuery validate plugin to provide input validation as you complete the form.
+# introduction
+There is already some jQuery plugins to make wizards,and is compatible with Chrome , Firefox , Opera  and Safari .
+
+# Basic exemple
+in folder screenshot you can basic example of this repos
+[folder screenshot](https://github.com/ahmedOumezzine/SimpleWizardForm/tree/master/screenshot "folder screenshot")
